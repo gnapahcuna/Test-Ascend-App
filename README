@@ -1,0 +1,12 @@
+Build and test app
+1. open app on Android studio
+2. run app
+
+libary ที่เอามาใช้ใน app
+1. android architecture acomponent
+2. retrofit2
+3. Rxjava3
+4. koin
+5. glide
+
+เขียนโดยใช้ MVVM pattern
