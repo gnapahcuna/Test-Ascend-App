@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_padding">4dp</dimen>
+    <dimen name="dimen_padding_card">12dp</dimen>
+
+    <dimen name="dimen_reduis_card_item">12dp</dimen>
+
+    <!--items-->
+    <dimen name="dimen_font_size_title">20sp</dimen>
+    <dimen name="dimen_font_size_new_item">14sp</dimen>
+    <dimen name="dimen_font_size_name">16sp</dimen>
+    <dimen name="dimen_font_size_price">18sp</dimen>
+
+    <!--content-->
+    <dimen name="dimen_font_size_new_item_content">16sp</dimen>
+    <dimen name="dimen_font_size_name_content">20sp</dimen>
+    <dimen name="dimen_font_size_content">16sp</dimen>
+    <dimen name="dimen_font_size_price_content">22sp</dimen>
+
+</resources>

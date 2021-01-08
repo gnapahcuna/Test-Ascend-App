@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="app_name_content">Detail</string>
+    <string name="title_list">Start picking your treats</string>
+</resources>
